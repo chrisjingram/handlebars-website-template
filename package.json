@@ -1,5 +1,5 @@
 {
-  "name": "stephsideas",
+  "name": "Website",
   "version": "1.0.0",
   "description": "",
   "main": "assemblefile.js",
@@ -14,14 +14,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/StephanieSlater/stephanieslater.github.io.git"
-  },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/StephanieSlater/stephanieslater.github.io/issues"
-  },
-  "homepage": "https://github.com/StephanieSlater/stephanieslater.github.io#readme"
+  "license": "ISC"
 }
